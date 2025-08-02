@@ -36,7 +36,7 @@ A full-stack school transport booking platform with real-time geolocation and dy
 - **Tech:** Flask, Next.js, PostgreSQL, Google Maps API
 - **Features:** JWT authentication, route visualization, responsive design
 
-### 🌍 [Globetrek](https://github.com/Melloniah/Globetrek))
+### 🌍 [Globetrek](https://github.com/Melloniah/Globe-Trek-Tours-and-TourGuides))
 Tours and guides booking platform with user reviews and interactive features.
 - **Tech:** Flask, React, SQLAlchemy
 - **Features:** Secure authentication, booking system, review management
