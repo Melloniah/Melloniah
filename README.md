@@ -31,7 +31,7 @@ I'm a **Full Stack Developer** passionate about building scalable, user-centric 
 
 ## 🏆 Featured Projects
 
-### 🚌 [SchoolRide]()
+### 🚌 [SchoolRide](https://github.com/Melloniah/School-Minibus-Booking-System)
 A full-stack school transport booking platform with real-time geolocation and dynamic pricing.
 - **Tech:** Flask, Next.js, PostgreSQL, Google Maps API
 - **Features:** JWT authentication, route visualization, responsive design
