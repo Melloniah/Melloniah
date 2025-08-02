@@ -41,7 +41,7 @@ Tours and guides booking platform with user reviews and interactive features.
 - **Tech:** Flask, React, SQLAlchemy
 - **Features:** Secure authentication, booking system, review management
 
-### 📚 [Book Buddy](https://github.com/Melloniah/Book-Buddy)
+### 📚 [Book Buddy](https://github.com/Melloniah/book-buddy)
 A responsive book review and favorites management application.
 - **Tech:** React, Local Storage
 - **Features:** Review system, favorites, persistent data
