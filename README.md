@@ -3,13 +3,13 @@
 ## 🚀 About Me
 I'm a **Full Stack Developer** passionate about building scalable, user-centric web applications. I love solving real-world problems through code and creating seamless user experiences.
 
-- 🌍 Based in Nairobi, Kenya
-- 💻 Recently completed Full Stack Software Engineering at Moringa School
-- 🌱 Currently exploring cloud technologies and advanced React patterns
-- 🎯 Open to opportunities in full stack development
-- ⚡ Fun fact: I built a school transport booking system with real-time geolocation!
+-  Based in Nairobi, Kenya
+-  Recently completed Full Stack Software Engineering at Moringa School
+-  Currently exploring cloud technologies and advanced React patterns
+- Open to opportunities in full stack development
+- Fun fact: I built a school transport booking system with real-time geolocation!
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -29,7 +29,7 @@ I'm a **Full Stack Developer** passionate about building scalable, user-centric 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Maps API](https://img.shields.io/badge/-Google_Maps_API-4285F4?style=flat-square&logo=google-maps&logoColor=white)
 
-## 🏆 Featured Projects
+## Featured Projects
 
 ### 🚌 [SchoolRide](https://github.com/Melloniah/School-Minibus-Booking-System)
 A full-stack school transport booking platform with real-time geolocation and dynamic pricing.
@@ -52,11 +52,11 @@ A responsive book review and favorites management application.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melloniah&layout=compact&theme=radical)
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 - 📧 Email: mellonakinyi@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/mellon-obada-224894125/](https://linkedin.com/in/mellon-obada-224894125/)
-- 🌐 Portfolio: 
+- 🌐 Portfolio: https://mellon-portfolio-2dwz.vercel.app/
 ---
 
 ⭐️ From [Mellon](https://github.com/melloniah)
