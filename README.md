@@ -11,7 +11,7 @@ Cloud deployment and DevOps practices
 Real-time systems and API integration
 Clean, maintainable code that scales
 
-Business Impact
+**Business Impact**
 
 I ship features that users love—my transport system reduced booking times by 70%
 I think product-first: every line of code should solve a real problem
