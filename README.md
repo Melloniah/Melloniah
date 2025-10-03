@@ -17,7 +17,7 @@ I ship features that users love—my transport system reduced booking times by 7
 I think product-first: every line of code should solve a real problem
 I debug fast, communicate clearly, and meet deadlines
 
-Current Focus
+**Current Focus**
 
 Deepening expertise in cloud architecture (AWS, Azure)
 Mastering advanced React patterns and performance optimization
