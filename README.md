@@ -1,14 +1,27 @@
-# Hi there, I'm Mellon! 👋
+# Hi there, I'm Mellon Obada! 👋
 
-## 🚀 About Me
-I'm a **Full Stack Developer** passionate about building scalable, user-centric web applications. I love solving real-world problems through code and creating seamless user experiences.
+Full Stack Developer | Building Products That Matter
+I don't just write code, I solve problems that impact real users. Recently, I architected and deployed a school transport booking system that processes real-time geolocation data, serving hundreds of students and parents daily. That's the kind of work that excites me: practical, scalable solutions that people actually use.
+What I Bring to Your Team
+Technical Excellence
 
--  Based in Nairobi, Kenya
--  Recently completed Full Stack Software Engineering at Moringa School
--  Currently exploring cloud technologies and advanced React patterns
-- Open to opportunities in full stack development
-- Fun fact: I built a school transport booking system with real-time geolocation!
+Full stack development with modern frameworks (React, Next.js, Node.js, Flask, FastApi, RESTful API)
+Database architecture and optimization (PostgreSQL)
+Cloud deployment and DevOps practices
+Real-time systems and API integration
+Clean, maintainable code that scales
 
+Business Impact
+
+I ship features that users love—my transport system reduced booking times by 70%
+I think product-first: every line of code should solve a real problem
+I debug fast, communicate clearly, and meet deadlines
+
+Current Focus
+
+Deepening expertise in cloud architecture (AWS, Azure)
+Mastering advanced React patterns and performance optimization
+Contributing to open source projects that challenge me
 ##  Tech Stack
 
 **Frontend:**
@@ -42,10 +55,10 @@ A full-stack school transport booking platform with real-time geolocation and dy
 - **Tech:** Flask, Next.js, PostgreSQL, Google Maps API
 - **Features:** JWT authentication, route visualization, responsive design
 
-### 🌍 [Globetrek](https://github.com/Melloniah/Globe-Trek-Tours-and-TourGuides))
-Tours and guides booking platform with user reviews and interactive features.
+###  [Ujuzi HUb](https://github.com/Melloniah/Ujuzi-Hub-project)
+A site for people to hire blue collar employees with user reviews and interactive features.
 - **Tech:** Flask, React, SQLAlchemy
-- **Features:** Secure authentication, booking system, review management
+- **Features:** Secure authentication, booking system, review management, for blue collar people
 
 ### 📚 [Book Buddy](https://github.com/Melloniah/book-buddy)
 A responsive book review and favorites management application.
@@ -58,9 +71,13 @@ A responsive book review and favorites management application.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melloniah&layout=compact&theme=radical)
 
-##  Let's Connect!
 
-- 📧 Email: mellonakinyi@gmail.com
+## Let's Build Something
+I'm actively seeking opportunities where I can contribute immediately while growing into more complex challenges. If you're looking for a developer who treats your codebase like their own and your users like they matter, let's talk. 
+Check out my pinned repositories below to see what I build when I'm solving real problems.
+
+##  Let's Connect!
+- 📧 Email: mellon.obada.tech@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/mellon-obada-224894125/](https://linkedin.com/in/mellon-obada-224894125/)
 - 🌐 Portfolio: https://mellon-portfolio-2dwz.vercel.app/
 ---
