@@ -80,7 +80,7 @@ Check out my pinned repositories below to see what I build when I'm solving real
 ##  Let's Connect!
 - 📧 Email: mellon.obada.tech@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/mellon-obada-224894125/](https://linkedin.com/in/mellon-obada-224894125/)
-- 🌐 Portfolio: https://mellon-portfolio-2dwz.vercel.app/
+- 🌐 Portfolio: https://portfolio-eight-xi-6x8yq4grzx.vercel.app/
 ---
 
 ⭐️ From [Mellon](https://github.com/melloniah)
