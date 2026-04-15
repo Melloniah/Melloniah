@@ -1,30 +1,44 @@
 # Hi there, I'm Mellon Obada! 👋
 
-Full Stack Developer | Building Products That Matter
-I don't just write code, I solve problems that impact real users. Recently, I architected and deployed a school transport booking system that processes real-time geolocation data, serving hundreds of students and parents daily. That's the kind of work that excites me: practical, scalable solutions that people actually use.
-What I Bring to Your Team
-Technical Excellence
+## Full Stack Developer | Cloud & Backend Builder | Product-Focused Engineer
 
-Full stack development with modern frameworks (React, Next.js, Node.js, Flask, FastApi, RESTful API)
-Database architecture and optimization (PostgreSQL)
-Cloud deployment and DevOps practices
-Real-time systems and API integration
-Clean, maintainable code that scales
+I don’t just write code — I build systems that solve real user problems.
 
-**Business Impact**
+Recently, I architected and deployed a **school transport booking system** with real-time geolocation tracking, serving hundreds of students and parents daily. I care about building **practical, scalable, and impactful software** that people actually rely on.
 
-I ship features that users love—my transport system reduced booking times by 70%
-I think product-first: every line of code should solve a real problem
-I debug fast, communicate clearly, and meet deadlines
+---
 
-**Current Focus**
+## 🚀 What I Bring to Your Team
 
-Deepening expertise in cloud architecture (AWS, Azure)
-Mastering advanced React patterns and performance optimization
-Contributing to open source projects that challenge me
-##  Tech Stack
+### ⚙️ Technical Excellence
+- Full-stack development with modern frameworks (React, Next.js, Node.js, Flask, FastAPI, REST APIs)
+- Backend system design & scalable API architecture
+- Database design & optimization (PostgreSQL)
+- Cloud deployment & DevOps practices (AWS, Azure)
+- Real-time systems & geolocation-based services
+- Clean, maintainable, production-ready code
 
-**Frontend:**
+---
+
+### 💡 Business Impact
+- I ship features users actually use — my transport system reduced booking time by **70%**
+- Product-first mindset: every feature must solve a real problem
+- Fast debugging, clear communication, and reliable delivery under deadlines
+
+---
+
+### 🎯 Current Focus
+- Deepening cloud architecture skills (AWS, Azure, distributed systems)
+- Exploring backend performance engineering with **Go (Golang)**
+- Building and shipping **mobile applications**
+- Improving frontend performance patterns in React
+- Contributing to open-source projects
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -32,39 +46,56 @@ Contributing to open source projects that challenge me
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Backend:**
-### 🛠 Tech Stack
+### Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Go](https://img.shields.io)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
-
-
-**Tools & Others:**
+### Tools & Cloud
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Maps API](https://img.shields.io/badge/-Google_Maps_API-4285F4?style=flat-square&logo=google-maps&logoColor=white)
 
-## Featured Projects
+---
 
-### 🚌 [SchoolRide](https://github.com/Melloniah/School-Minibus-Booking-System)
-A full-stack school transport booking platform with real-time geolocation and dynamic pricing.
-- **Tech:** Flask, Next.js, PostgreSQL, Google Maps API
-- **Features:** JWT authentication, route visualization, responsive design
+## 🔥 Featured Projects
 
-###  [Ujuzi HUb](https://github.com/Melloniah/Ujuzi-Hub-project)
-A site for people to hire blue collar employees with user reviews and interactive features.
-- **Tech:** Flask, React, SQLAlchemy
-- **Features:** Secure authentication, booking system, review management, for blue collar people
+### 🛒 [Adventures Bookshop](https://adventuresbookshop.org)
+Full-stack e-commerce platform for book lovers with a complete shopping experience.
 
-### 📚 [Book Buddy](https://github.com/Melloniah/book-buddy)
-A responsive book review and favorites management application.
-- **Tech:** React, Local Storage
-- **Features:** Review system, favorites, persistent data
+- **Frontend:** Next.js (middleware, UI optimization)
+- **Backend:** FastAPI + Pydantic validation
+- **Database:** PostgreSQL
+- **Deployment:** Vercel + Railway
+- Features cart system, authentication, and scalable API design
+
+---
+
+### ⚡ [GoLink](https://url-shortener-khaki-five.vercel.app/)
+High-performance URL shortener built for speed and analytics.
+
+- **Stack:** Go (Golang) + React
+- Click tracking & analytics
+- Persistent storage system
+- 56B+ possible short code combinations
+- Deployed with Railway + Vercel
+
+---
+
+### 🇰🇪 Kenyan AI Poem Generator
+AI-powered creative tool generating Kenya-themed poetry using prompts.
+
+- **Stack:** JavaScript
+- OpenAI API integration
+- SheCodes API integration
+- Deployed on Netlify
+- Generates contextual, creative poetry in real-time
+
+---
 
 ## 📊 GitHub Stats
 
@@ -72,15 +103,26 @@ A responsive book review and favorites management application.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melloniah&layout=compact&theme=radical)
 
+---
 
-## Let's Build Something
-I'm actively seeking opportunities where I can contribute immediately while growing into more complex challenges. If you're looking for a developer who treats your codebase like their own and your users like they matter, let's talk. 
-Check out my pinned repositories below to see what I build when I'm solving real problems.
+## 🤝 Let’s Build Something
 
-##  Let's Connect!
-- 📧 Email: mellon.obada.tech@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/mellon-obada-224894125/](https://linkedin.com/in/mellon-obada-224894125/)
+I’m actively looking for opportunities where I can:
+- Contribute to real production systems
+- Work on scalable backend and cloud architectures
+- Build impactful web and mobile applications
+- Grow in distributed systems and performance engineering
+
+If you're building something meaningful, I’d love to connect.
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: mellon.obada.tech@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/mellon-obada-224894125/  
 - 🌐 Portfolio: https://portfolio-eight-xi-6x8yq4grzx.vercel.app/
+
 ---
 
 ⭐️ From [Mellon](https://github.com/melloniah)
