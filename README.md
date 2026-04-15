@@ -8,7 +8,7 @@ Recently, I architected and deployed a **school transport booking system** with 
 
 ---
 
-## 🚀 What I Bring to Your Team
+##  What I Bring to Your Team
 
 ### ⚙️ Technical Excellence
 - Full-stack development with modern frameworks (React, Next.js, Node.js, Flask, FastAPI, REST APIs)
@@ -20,14 +20,14 @@ Recently, I architected and deployed a **school transport booking system** with 
 
 ---
 
-### 💡 Business Impact
+### Business Impact
 - I ship features users actually use — my transport system reduced booking time by **70%**
 - Product-first mindset: every feature must solve a real problem
 - Fast debugging, clear communication, and reliable delivery under deadlines
 
 ---
 
-### 🎯 Current Focus
+### Current Focus
 - Deepening cloud architecture skills (AWS, Azure, distributed systems)
 - Exploring backend performance engineering with **Go (Golang)**
 - Building and shipping **mobile applications**
@@ -36,7 +36,7 @@ Recently, I architected and deployed a **school transport booking system** with 
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -62,7 +62,7 @@ Recently, I architected and deployed a **school transport booking system** with 
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 ### 🛒 [Adventures Bookshop](https://adventuresbookshop.org)
 Full-stack e-commerce platform for book lovers with a complete shopping experience.
@@ -97,7 +97,7 @@ AI-powered creative tool generating Kenya-themed poetry using prompts.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Mellon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melloniah&show_icons=true&theme=radical)
 
@@ -117,11 +117,11 @@ If you're building something meaningful, I’d love to connect.
 
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
-- 📧 Email: mellon.obada.tech@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/mellon-obada-224894125/  
-- 🌐 Portfolio: https://portfolio-eight-xi-6x8yq4grzx.vercel.app/
+-  Email: mellon.obada.tech@gmail.com  
+-  LinkedIn: https://linkedin.com/in/mellon-obada-224894125/  
+-  Portfolio: https://portfolio-eight-xi-6x8yq4grzx.vercel.app/
 
 ---
 
